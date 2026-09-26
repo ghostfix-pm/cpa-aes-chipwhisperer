@@ -1,0 +1,21 @@
+Recovered key: 2b7e151628aed2a6abf7158809cf4f3c
+Real key:      2b7e151628aed2a6abf7158809cf4f3c
+MATCH: yes
+
+byte  recovered  real  correct?
+   0       2b     2b     yes
+   1       7e     7e     yes
+   2       15     15     yes
+   3       16     16     yes
+   4       28     28     yes
+   5       ae     ae     yes
+   6       d2     d2     yes
+   7       a6     a6     yes
+   8       ab     ab     yes
+   9       f7     f7     yes
+  10       15     15     yes
+  11       88     88     yes
+  12       09     09     yes
+  13       cf     cf     yes
+  14       4f     4f     yes
+  15       3c     3c     yes

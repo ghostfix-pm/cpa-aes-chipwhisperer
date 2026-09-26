@@ -1,0 +1,9 @@
+# Python virtual environment (recreate with: python3 -m venv .venv)
+.venv/
+
+# Local clone of the ChipWhisperer repo (clone separately, see README)
+chipwhisperer/
+
+# Python caches
+__pycache__/
+*.pyc
