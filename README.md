@@ -24,7 +24,7 @@ The virtual environment already exists. To rebuild it from scratch:
 
 ```bash
 python3 -m venv .venv
-.venv/bin/pip install chipwhisperer numpy matplotlib tqdm
+.venv/bin/pip install -r requirements.txt
 ```
 
 ## 2. Build the firmware (one time)
